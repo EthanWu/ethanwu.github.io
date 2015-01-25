@@ -30,6 +30,14 @@
 </li>
 {% endif %}
 
+{% if site.theme.weibo %}
+<li>
+	<a href="{{ site.theme.weibo }}" title="{{ site.theme.str_follow_on }} Weibo">
+		<i class="fa fa-fw fa-weibo"></i>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme.dribbble %}
 <li>
 	<a href="https://dribbble.com/{{ site.theme.dribbble }}" title="{{ site.theme.str_follow_on }} Dribbble">

@@ -5,26 +5,27 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Ethan Wu
   avatar: avatar.png
   gravatar: # email md5 hash
-  description: "A website with blog posts, and pages." # used by search engines
+  description: "吴立军的个人主页." # used by search engines
   
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <h2>行思录</h2>
      
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>生活即修行</p>
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
+   Pridely powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
   
   # Icons
   rss: false
-  email_address: # full email address, e.g. "sam@example.com"
+  email_address: wlj0427@gmail.com
   behance:
+  weibo: http://weibo.com/1831675903/profile?rightmod=1&wvr=6&mod=personinfo
   bitbucket: 
   dribbble: 
-  facebook: 
+  facebook: https://www.facebook.com/ethan.wu.31542
   flickr: 
   github: "rohanchandra/type-theme"
   google_plus: 
@@ -33,10 +34,10 @@ theme:
   pinterest: 
   reddit: 
   soundcloud: 
-  stack_exchange:  # full URL
+  stack_exchange:  http://stackoverflow.com/users/4074748/ethian-wu
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: EthanWu6
   wordpress: 
   youtube: 
   
