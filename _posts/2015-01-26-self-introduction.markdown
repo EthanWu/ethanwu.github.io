@@ -13,7 +13,5 @@ feature-img: "img/sample_feature_img.png"
 
 前华为员工，现以联合创始人身份加入Siyee公司，致力于服务器后端开发。希望能在技术方面有所建树。
 
-正在收集人生中的一个个points:
-
+以乔布斯的那句话为座右铭，正在收集人生中的一个个points:
 >You can't connect the dots looking forward you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something: your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well worn path.
-
